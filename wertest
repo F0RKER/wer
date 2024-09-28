@@ -1,0 +1,14 @@
+// This is a single-line comment
+/*
+  This is a multi-line comment
+*/
+
+// Define a simple function
+function testFunction() {
+    console.log("Test function executed successfully!"); // Log message to the console
+}
+
+/* 
+  Call the function below
+*/
+testFunction();
